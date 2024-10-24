@@ -24,3 +24,7 @@ public function getKolomTabel(){
 }
 
 }
+
+// database: perpustakaan
+// table: buku
+//       id int (11) primary key auto_
